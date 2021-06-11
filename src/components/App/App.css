@@ -1,0 +1,17 @@
+.body {
+  width: 100%;
+  position: fixed;
+}
+
+.panel {
+  padding: 40px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  background-color: rgb(252, 210, 231);
+}
+
+.TodoList {
+  margin-top: 20px;
+}

@@ -1,0 +1,15 @@
+.header {
+  align-items: flex-end;
+  margin-bottom: 10px;
+}
+
+.header h1 {
+  flex-grow: 1;
+  font-weight: 900;
+  color: rgb(47, 119, 212);
+}
+
+.header h2 {
+  font-size: 1.2rem;
+  color: grey;
+}
